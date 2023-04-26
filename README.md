@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Momo-web/Momo-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![:name](https://count.getloli.com/get/@:name?theme=rule34)
+![:name](https://count.getloli.com/get/@:name?theme=gelbooru-h)
