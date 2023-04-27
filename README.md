@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![:name](https://count.getloli.com/get/@:name?theme=gelbooru-h)
+![:name](https://count.getloli.com/get/@:name?theme=rule34)
